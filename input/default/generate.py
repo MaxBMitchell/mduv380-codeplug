@@ -12,7 +12,7 @@ cp_dir = Path(__file__).parent
 output = Path(os.environ.get("OUTPUT") or (cp_dir / ".." / ".." / "OUTPUT"))
 
 CodeplugRecipe(
-    #source_pnwdigital=True,
+    source_pnwdigital=True,
     source_seattledmr=True,
     source_default_k7abd=True,
     source_k7abd=[(cp_dir / "k7abd")],

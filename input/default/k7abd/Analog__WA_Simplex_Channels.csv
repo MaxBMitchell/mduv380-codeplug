@@ -1,0 +1,3 @@
+Zone,Channel Name,Bandwidth,Power,RX Freq,TX Freq,CTCSS Decode,CTCSS Encode,TX Prohibit
+WA Simplex,142.52,12.5k,Turbo,142.52,142.52,,,
+WA Simplex,446.00,12.5K,Turbo,446.00,446.00,,,
